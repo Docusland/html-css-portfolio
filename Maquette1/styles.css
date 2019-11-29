@@ -1,0 +1,106 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.Logo{
+    display: block;
+    margin: 50px auto;
+}
+.Image1{
+
+    height: 400px;
+    background-image: url(../images/hero.png);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    
+}
+.Image1>h1{
+    color: white;
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    line-height: 400px;
+}
+.main{
+    width: 990px;
+    margin: auto;
+    display: flex;
+}
+.Texte1{
+    background: center;
+    width: 480px;
+    height: 455px;
+    
+}
+.Texte1>h3{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+.Texte1>p{
+    margin-top: 30px;
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+}
+.illustration{
+    width: 480px;
+   height: 455px;
+   margin-left: 30px;
+}
+.illustration>a{
+    
+    margin-top: 80px;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+.illustration>p{
+    text-align: right;
+    margin-top: 90px;
+}
+.allimage>img{
+    float: left;
+    margin-bottom: 30px;
+}
+.allimage>img:nth-child(odd){
+    margin-right:30px;
+}
+.button1{
+    display: block;
+    margin: auto;
+    width: 192px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    margin-top: 16px;
+
+}
+.footer1{
+    margin-top: 80px;
+    background: black;
+    height: 167px;
+}
+.footer2>p{    
+    font-size: 16px;
+    font-family: 'Playfair Display', serif; 
+    margin-top: auto;
+    line-height: 167px;
+    word-spacing: 50px;
+}
+.footer2{
+    width: 990px;
+    height: 167px;
+    margin: auto;  
+    
+}
+.Image2{
+    margin: 50px 25px 0px 0px;
+    float: right;
+}
+
+
+
+

@@ -1,0 +1,120 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.Logo{
+    display: block;
+    margin: 50px auto;
+}
+.Image1{
+
+    height: 70px;
+    background-image: url(../images/hero.png);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 0px;
+    
+}
+.Image1>h1{
+    color: white;
+    font-size: 32px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    line-height: 70px;
+}
+.main{
+    width: 990px;
+    margin: auto;
+    display: flex;
+}
+.Texte1{
+    background: center;
+    width: 480px;
+    height: 455px;
+    
+}
+.Texte1>h3{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    height: 30px;
+    line-height: 30px;
+}
+.Texte1>p{
+    margin-top: 30px;
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+}
+.illustration{
+    width: 480px;
+   height: 455px;   
+   margin-left: 30px;
+   
+}
+.illustration>p{
+    font-size: 16px;
+    font-family:'Open Sans', sans-serif;
+    margin-bottom: 0px;
+}
+.Name1{
+    margin-top: 65px;
+
+}
+.Name{
+    width: 480px;
+    height: 30px;
+    padding-left: 12px;
+    
+}
+.Email{
+    width: 480px;
+    height: 30px;
+    padding-left: 12px;
+}
+.Message{
+    width: 480px;
+    height: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+    
+    resize: none;
+    
+}
+.button1{
+    width: 100px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    margin-top: 16px;
+}
+.footer1{
+    margin-top: 80px;
+    background: black;
+    height: 167px;
+}
+.footer2>p{    
+    font-size: 16px;
+    font-family: 'Playfair Display', serif; 
+    margin-top: auto;
+    line-height: 167px;
+    word-spacing: 50px;
+}
+.footer2{
+    width: 990px;
+    height: 167px;
+    margin: auto;    
+}
+.Image2{
+    margin: 50px 25px 0px 0px;
+    float: right;
+}
+
+
+
+
