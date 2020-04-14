@@ -6,7 +6,7 @@ Intégration HTML/CSS d'un site internet : portfolio de photographe.
 
 ### Accueil
 
-Fichier __index.html__.
+Fichier __index.html__.qsdqsdqds
 
 ![Maquette](doc/01-home.jpg)
 
